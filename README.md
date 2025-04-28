@@ -1,10 +1,10 @@
 # 👋 Hey, I'm Alok
 
-🚀 A curious mind and self-driven **Computer Science student** from India, passionate about building **real-world projects**, exploring **AI**, and mastering **backend development** from the ground up.
+🚀 A **Computer Science student** from India, passionate about building **real-world projects**, exploring **AI**, and mastering **backend development** from the ground up.
 
 ## 💻 What I’m Working On
 
-- 💀 Working on a **LinkedIn alternative** with clean UI and smart AI integrations
+- 💀 working on some personal projects
 
 ## 🧠 What I’m Learning
 
